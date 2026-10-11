@@ -1,0 +1,4 @@
+https://components.espressif.com/components/espp/t-deck/versions/1.3.7/readme?language=en
+
+https://docs.espressif.com/projects/esp-idf/en/stable/esp32s3/api-guides/tools/idf-component-manager.html
+

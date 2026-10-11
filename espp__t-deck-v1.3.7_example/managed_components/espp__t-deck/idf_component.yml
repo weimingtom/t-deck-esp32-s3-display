@@ -1,0 +1,35 @@
+dependencies:
+  espp/base_component: '>=1.0'
+  espp/display: '>=1.0'
+  espp/display_drivers: '>=1.0'
+  espp/gps: '>=1.0'
+  espp/gt911: '>=1.0'
+  espp/i2c: '>=1.0'
+  espp/input_drivers: '>=1.0'
+  espp/interrupt: '>=1.0'
+  espp/sdcard: '>=1.0'
+  espp/spi: '>=1.0'
+  espp/sx126x: '>=1.0'
+  espp/t_keyboard: '>=1.0'
+  espp/task: '>=1.0'
+  idf:
+    version: '>=5.0'
+description: LilyGo T-Deck Board Support Package (BSP) component for ESP-IDF
+documentation: https://esp-cpp.github.io/espp/dev_boards/lilygo/t_deck.html
+license: MIT
+maintainers:
+- William Emfinger <waemfinger@gmail.com>
+repository: git://github.com/esp-cpp/espp.git
+repository_info:
+  commit_sha: 4b32f78e007f3750b2ea82a96c3c5896c2770a97
+  path: components/t-deck
+tags:
+- cpp
+- Component
+- LilyGo
+- T-Deck
+- BSP
+targets:
+- esp32s3
+url: https://github.com/esp-cpp/espp/tree/main/components/t-deck
+version: 1.3.7

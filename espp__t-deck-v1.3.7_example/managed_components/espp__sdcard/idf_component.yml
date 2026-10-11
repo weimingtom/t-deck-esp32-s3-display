@@ -1,0 +1,26 @@
+dependencies:
+  espp/base_component: '>=1.0'
+  idf:
+    version: '>=5.0'
+description: SD / microSD card over SDSPI or SDMMC (SDIO) with card initialization
+  and FAT mounting as separate steps, for ESP-IDF
+documentation: https://esp-cpp.github.io/espp/storage/sdcard.html
+license: MIT
+maintainers:
+- William Emfinger <waemfinger@gmail.com>
+repository: git://github.com/esp-cpp/espp.git
+repository_info:
+  commit_sha: 4b32f78e007f3750b2ea82a96c3c5896c2770a97
+  path: components/sdcard
+tags:
+- cpp
+- Component
+- SD-Card
+- microSD
+- SDMMC
+- SDIO
+- SDSPI
+- FAT
+- Storage
+url: https://github.com/esp-cpp/espp/tree/main/components/sdcard
+version: 1.3.7

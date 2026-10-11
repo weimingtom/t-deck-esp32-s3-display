@@ -1,0 +1,21 @@
+dependencies:
+  espp/base_peripheral: '>=1.0'
+  idf:
+    version: '>=5.0'
+description: LilyGo T-Keyboard component for ESP-IDF
+documentation: https://esp-cpp.github.io/espp/input/t_keyboard.html
+license: MIT
+maintainers:
+- William Emfinger <waemfinger@gmail.com>
+repository: git://github.com/esp-cpp/espp.git
+repository_info:
+  commit_sha: 4b32f78e007f3750b2ea82a96c3c5896c2770a97
+  path: components/t_keyboard
+tags:
+- cpp
+- Component
+- LilyGo
+- Input
+- T-Keyboard
+url: https://github.com/esp-cpp/espp/tree/main/components/t_keyboard
+version: 1.3.7

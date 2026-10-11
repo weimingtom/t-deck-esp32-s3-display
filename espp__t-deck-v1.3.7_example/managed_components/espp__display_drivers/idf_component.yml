@@ -1,0 +1,28 @@
+dependencies:
+  espp/display: '>=1.0'
+  espp/led: '>=1.0'
+  espp/spi: '>=1.0'
+  idf:
+    version: '>=5.0'
+description: Display Drivers component for ESP-IDF
+documentation: https://esp-cpp.github.io/espp/display/display_drivers.html
+license: MIT
+maintainers:
+- William Emfinger <waemfinger@gmail.com>
+repository: git://github.com/esp-cpp/espp.git
+repository_info:
+  commit_sha: 4b32f78e007f3750b2ea82a96c3c5896c2770a97
+  path: components/display_drivers
+tags:
+- cpp
+- Component
+- Display
+- Drivers
+- SPI
+- GC9A01
+- ILI9341
+- SH8601
+- ST7789
+- ST7796
+url: https://github.com/esp-cpp/espp/tree/main/components/display_drivers
+version: 1.3.7

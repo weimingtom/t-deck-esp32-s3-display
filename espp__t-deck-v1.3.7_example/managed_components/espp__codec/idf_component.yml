@@ -1,0 +1,19 @@
+dependencies:
+  idf:
+    version: '>=5.0'
+description: Audio Codec component for ESP-IDF
+license: MIT
+maintainers:
+- William Emfinger <waemfinger@gmail.com>
+repository: git://github.com/esp-cpp/espp.git
+repository_info:
+  commit_sha: 4b32f78e007f3750b2ea82a96c3c5896c2770a97
+  path: components/codec
+tags:
+- cpp
+- Component
+- Audio
+- Codec
+- Peripheral
+url: https://github.com/esp-cpp/espp/tree/main/components/codec
+version: 1.3.7
